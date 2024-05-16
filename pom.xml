@@ -79,8 +79,7 @@
     
     <module>it.tests</module>
                     
-    
-    
+    <!--   commented ui.tests as build is failing because of cypress tests -->
  <!--   <module>ui.tests</module> -->
       
   </modules>
